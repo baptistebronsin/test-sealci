@@ -1,2 +1,2 @@
 # test-sealci
-My beautiful body.
+My beautiful body with more details.
