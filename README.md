@@ -6,7 +6,3 @@ fixed ? Oui mais non
 Alors peut-être
 
 OUI CA MARCHE
-
-Je suis en train de tester. wi
-dfzef purée
-sdfdf
